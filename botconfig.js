@@ -21,9 +21,9 @@ module.exports = {
   //Lavalink
    Lavalink: {
     id: "Main",
-    host: "host name or IP",
-    port: 80, // The port that lavalink is listening to. This must be a number!
-    pass: "your password", 
+    host: "lavalink.darrennathanael.com",
+    port: 2095, // The port that lavalink is listening to. This must be a number!
+    pass: "whatwasthelastingyousaid", 
     secure: false, // Set this to true if the lavalink uses SSL or you're hosting lavalink on repl.it
   },
 
